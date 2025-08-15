@@ -10,14 +10,28 @@
     <div id="wait">
         Please wait for json to load ...
     </div>
-    <div id="menu" class="hidden">
-        <h2>Select Mode</h2>
-        <button onclick="pickMode('1')">Play all cards</button>
+
+    <div id="deck-creation">
+        <p>Make your Deck</p>
+        <div id="deck-creation-content"></div>
+        <button onclick="selectAllCards()">All cards</button>
+        <div>
+            <div id="card-number"></div>
+            <button onclick="onDeckSubmit()">Submit</button>
+        </div>
+    </div>
+
+    <div id="deck-size">
+        <p>Choose the deck size</p>
+        <div>Total Cards: 0</div>
+        <button>Full Deck</button>
+        <button>Half Deck</button>
+        <button>Play</button>
     </div>
 
     <div id="quiz" class="hidden">
        <div class="overlay-top">
-            <div id="card-number"></div>
+  
             <div id="correct-percent"></div>
         </div>
         <div>
