@@ -4,10 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SpanishQuiz</title>
+     <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
-    <div>
-        test
+    <div id="wait">
+        Please wait for json to load ...
     </div>
+    <div id="menu" class="hidden">
+        <h2>Select Mode</h2>
+        <button onclick="pickMode('1')">Play all cards</button>
+    </div>
+
+    <div id="quiz" class="hidden">
+       <div class="overlay-top">
+            <div id="card-number"></div>
+            <div id="correct-percent"></div>
+        </div>
+        <div>
+            <div id="English Word"></div>
+            <img src="" alt="">
+        </div>
+        <div> 
+            <input type="text" placeholder="" /> 
+            <button id="answer-submit-btn">Submit</button>
+        </div>
+        <div id="result"></div>
+    </div>
+
+    <script src="js/fetch.js"></script>
+
 </body>
 </html>

@@ -1,0 +1,62 @@
+{
+  "nouns": {
+    "time": [
+      {
+        "spanish": "tiempo",
+        "english": "time",
+        "hasImage": false,
+        "image": ""
+      },
+      {
+        "spanish": "segundo",
+        "english": "second",
+        "hasImage": false,
+        "image": ""
+      }
+    ],
+    "persons": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ]
+  },
+  "verbs": {
+    "time2": [
+      {
+        "spanish": "tiempo2",
+        "english": "time",
+        "hasImage": false,
+        "image": ""
+      },
+      {
+        "spanish": "segundo2",
+        "english": "second",
+        "hasImage": false,
+        "image": ""
+      }
+    ],
+    "persons2": [
+      {
+        "spanish": "padre2",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre2",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ]
+  }
+}
