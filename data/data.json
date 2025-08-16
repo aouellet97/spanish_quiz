@@ -4,14 +4,14 @@
       {
         "spanish": "tiempo",
         "english": "time",
-        "hasImage": false,
-        "image": ""
+        "hasImage": true,
+        "image": "https://www.pexels.com/photo/young-woman-posing-by-riverside-in-soft-light-30753707/"
       },
       {
         "spanish": "segundo",
         "english": "second",
-        "hasImage": false,
-        "image": ""
+        "hasImage": true,
+        "image": "https://www.pexels.com/photo/young-woman-posing-by-riverside-in-soft-light-30753707/"
       }
     ],
     "persons": [

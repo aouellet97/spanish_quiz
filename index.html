@@ -11,7 +11,7 @@
         Please wait for json to load ...
     </div>
 
-    <div id="deck-creation">
+    <div id="deck-creation" class="hidden">
         <p>Make your Deck</p>
         <div id="deck-creation-content"></div>
         <button onclick="selectAllCards()">All cards</button>
@@ -21,31 +21,40 @@
         </div>
     </div>
 
-    <div id="deck-size">
+    <div id="deck-size" class="hidden">
         <p>Choose the deck size</p>
-        <div>Total Cards: 0</div>
-        <button>Full Deck</button>
-        <button>Half Deck</button>
-        <button>Play</button>
+        <div id="deck-size-cards">Total Cards: 0</div>
+        <button id="ds-full-btn" onclick="onDsBtnClick(event)" class="selected-btn">Full Deck</button>
+        <button id="ds-half-btn" onclick="onDsBtnClick(event)" >Half Deck</button>
+        <button onclick="startQuiz()">Play</button>
     </div>
 
-    <div id="quiz" class="hidden">
-       <div class="overlay-top">
-  
+    <div id="quizDiv" class="hidden">
+       <div>
+            <div id="deck-progression"></div>
             <div id="correct-percent"></div>
         </div>
         <div>
-            <div id="English Word"></div>
-            <img src="" alt="">
+            <div id="English-Word"></div>
+            <img id="quiz-image" src="" alt="Image">
         </div>
         <div> 
-            <input type="text" placeholder="" /> 
-            <button id="answer-submit-btn">Submit</button>
+            <input id="input" type="text" placeholder="" /> 
+            <button id="skip-btn" onclick="skipCard()">Skip</button>
+            <button id="answer-submit-btn" onclick="checkAnswer()">Submit</button>
+            <button id="next-btn" class="hidden" onclick="newQuizRound()">Next Card!</button>
         </div>
         <div id="result"></div>
     </div>
 
-    <script src="js/fetch.js"></script>
+    <div id="end-results" class="hidden">
+        <div id="score"></div>
+        <div id="bad-words"></div>
+        <button onclick="onReplay()">Play Again</button>
+        <button onclick="goHome()">Home</button>
+    </div>
+
+    <script src="js/logic.js"></script>
 
 </body>
 </html>
