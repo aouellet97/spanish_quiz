@@ -267,6 +267,9 @@ function resetButtons(){
   buttons.forEach(button => {
     button.classList.remove("selected-btn");
   });
+
+  fullBtn.classList.add("selected-btn");
+  halfBtn.classList.remove("selected-btn"); 
 }
 
 function onAllTypeBtn(event, add){
