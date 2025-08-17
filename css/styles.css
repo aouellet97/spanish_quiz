@@ -1,7 +1,43 @@
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 .selected-btn {
-  background-color: #3498db;
+  background-color: rgb(172, 170, 69)!important ;
+  border: none !important;
+}
+
+.btn-no-wrap {
+  overflow: hidden; 
+}
+
+.clear-btn {
+  background-color: #e05a5a !important;
+  border: none !important;
+}
+
+.add-btn {
+  background-color: #34ad99 !important ;
+  border: none !important;
+}
+
+.submit-btn{
+  background-color: rgb(99, 165, 82) !important;
+border: none !important;
+}
+
+.all-btn{
+  background-color: rgb(142, 75, 182) !important;
+  border: none !important;
+}
+
+.deck-btn{
+   background-color: rgb(4, 158, 63) !important;
+  border: none !important;
+}
+
+.btn-info{
+
+  border: none !important;
+  color: white !important;
 }

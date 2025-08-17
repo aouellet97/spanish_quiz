@@ -1,6 +1,6 @@
 {
   "nouns": {
-    "time": [
+    "places to visit when you hate your life": [
       {
         "spanish": "tiempo",
         "english": "time",
@@ -14,7 +14,111 @@
         "image": "https://images.pexels.com/photos/97307/pexels-photo-97307.jpeg?_gl=1*23bdst*_ga*OTgzMjA1MDMxLjE3NTUzMTYzMjE.*_ga_8JE65Q40S6*czE3NTUzMTYzMjAkbzEkZzEkdDE3NTUzMTczNDIkajU5JGwwJGgw"
       }
     ],
-    "persons": [
+    "p": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+    "persodfns": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+
+    "pebrsonas": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+
+    "personaas": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+
+    "personas": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+
+    "personsf": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+
+    "persofns": [
+      {
+        "spanish": "padre",
+        "english": "father",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+      },
+      {
+        "spanish": "madre",
+        "english": "mother",
+        "hasImage": true,
+        "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+      }
+    ],
+
+    "persoans": [
       {
         "spanish": "padre",
         "english": "father",

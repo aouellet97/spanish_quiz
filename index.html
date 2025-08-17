@@ -5,55 +5,73 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SpanishQuiz</title>
      <link rel="stylesheet" href="css/styles.css" />
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/breakpoint.css" />
 </head>
-<body>
+<body class="bg-dark text-white">
+
     <div id="wait">
         Please wait for json to load ...
     </div>
 
-    <div id="deck-creation" class="hidden">
-        <p>Make your Deck</p>
-        <div id="deck-creation-content"></div>
-        <button onclick="selectAllCards()">All cards</button>
-        <div>
-            <div id="card-number"></div>
-            <button onclick="onDeckSubmit()">Submit</button>
+    <div id="deck-creation" class="hidden container  text-center">
+        <p class="h1 mt-5">Make your Deck</p>
+        <div id="card-number" class="mt-4 h4"></div>
+        <div id="deck-creation-content" class="mt-5"></div>
+        <div class="row my-5 pt-4">
+            <div class="col-6" >
+                <button class="btn btn-primary w-100 btn-lg py-4 all-btn"  onclick="selectAllCards()">All cards</button>
+            </div>
+            <div class="col-6" >
+                <button class="btn btn-primary w-100 btn-lg py-4 submit-btn" onclick="onDeckSubmit()">Submit Deck</button>
+            </div>
+        </div>
+    </div> 
+
+    <div id="deck-size" class="hidden container text-center">
+        <div class="row d-flex justify-content-center">
+            <div class="col-12 text-center h1 mt-4">Choose the deck size</div>
+            <div id="deck-size-cards" class="col-12 text-center h4 mt-4">Total Cards: 0</div>
+            <div class="col-6 mt-4"><button id="ds-full-btn" onclick="onDsBtnClick(event)" class="selected-btn btn-primary btn w-100 py-3 ">Full Deck</button></div>
+            <div class="col-6 mt-4"><button id="ds-half-btn" onclick="onDsBtnClick(event)" class="btn btn-primary w-100 py-3 ">Half Deck</button></div>
+            <div class="col-6 mt-5"><button onclick="startQuiz()" class="btn submit-btn text-white py-4 w-100 btn-lg">Play</button></div>
+        </div>
+    </div>
+ 
+    <div id="quizDiv" class="hidden container text-center px-5 mt-5">
+        <div class="row d-flex justify-content-center ">
+            <div id="deck-progression" class="col-6 h5  text-start "></div>
+            <div id="correct-percent" class="col-6 h5 text-end"></div>
+
+            <div id="English-Word" class="col-12 my-3 h2"></div>
+            <div class="col-12 mt-2">
+                <img id="quiz-image" class="img-fluid " src="" alt="Image">
+            </div>
+             
+            <div class="col-lg-6 col-12 mt-4"><input id="input" type="text" placeholder="" class="form-control "/> </div>
+            <div class="row mt-4 mb-5 ">
+                <div class="col-6"><button id="skip-btn" class="btn clear-btn text-white btn w-100" onclick="skipCard()">Skip</button></div>
+                <div class="col-6"><button id="answer-submit-btn" class="btn text-white submit-btn btn w-100" onclick="checkAnswer()">Submit</button></div>
+                <div class="col-6 h5" id="result"></div>
+                <div class="col-6"><button id="next-btn" class="hidden btn text-white submit-btn btn w-100" onclick="newQuizRound()">Next Card!</button></div>
+            </div>
+    
         </div>
     </div>
 
-    <div id="deck-size" class="hidden">
-        <p>Choose the deck size</p>
-        <div id="deck-size-cards">Total Cards: 0</div>
-        <button id="ds-full-btn" onclick="onDsBtnClick(event)" class="selected-btn">Full Deck</button>
-        <button id="ds-half-btn" onclick="onDsBtnClick(event)" >Half Deck</button>
-        <button onclick="startQuiz()">Play</button>
+    <div id="end-results" class="text-center container hidden mt-5">
+        <div class="row mb-5 d-flex justify-content-center">
+            <div class="col-12 h1 mt-3" id="score"></div>
+            <div class="col-12 mt-5 h3 text-center" >Bad Words: </div>
+            <div class="col-8 mt-3  h5" id="bad-words"></div>
+            <div class="row">
+                <div class="col-6 mt-5"><button class="btn btn-primary text-white submit-btn w-100 py-3" onclick="onReplay()">Play Again</button></div>
+                <div class="col-6 mt-5"><button class="btn btn-primary w-100 py-3" onclick="goHome()">Home</button></div>
+            </div>
+        </div>
     </div>
 
-    <div id="quizDiv" class="hidden">
-       <div>
-            <div id="deck-progression"></div>
-            <div id="correct-percent"></div>
-        </div>
-        <div>
-            <div id="English-Word"></div>
-            <img id="quiz-image" src="" alt="Image">
-        </div>
-        <div> 
-            <input id="input" type="text" placeholder="" /> 
-            <button id="skip-btn" onclick="skipCard()">Skip</button>
-            <button id="answer-submit-btn" onclick="checkAnswer()">Submit</button>
-            <button id="next-btn" class="hidden" onclick="newQuizRound()">Next Card!</button>
-        </div>
-        <div id="result"></div>
-    </div>
-
-    <div id="end-results" class="hidden">
-        <div id="score"></div>
-        <div id="bad-words"></div>
-        <button onclick="onReplay()">Play Again</button>
-        <button onclick="goHome()">Home</button>
-    </div>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
     <script src="js/logic.js"></script>
 
 </body>

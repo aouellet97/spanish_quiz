@@ -69,6 +69,7 @@ function onReplay(){
 function goHome(){
   resset();
   resetButtons();
+  document.getElementById('card-number').innerHTML = `Deck Size: 0`;
   show(deckCreationDiv);
   hide(deckSizeDiv);
   hide(quizDiv);
@@ -109,12 +110,15 @@ function endQuiz(){
     resultString += `<li>${missedCards[word].english} - ${missedCards[word].spanish}</li>`;
   }
 
-  badDiv.innerHTML = `<ul> ${resultString}</ul>`;
+  badDiv.innerHTML = `<ul class="list-unstyled"> ${resultString}</ul>`;
 }
 
 function checkAnswer(){
   let input = inputForm.value.trim().toLowerCase();
   
+  if (input === ""){
+    return ;
+  }
   if (input === currentCard.spanish){
     succeed();
   } else{
@@ -136,11 +140,15 @@ function nextRound(){
 
 function failed(){
   missedCards.push(currentCard);
-  resultDiv.innerHTML = `Wrong! The answer was ${currentCard.spanish}`;
+  resultDiv.classList.remove("text-success");
+  resultDiv.classList.add("text-danger");
+  resultDiv.innerHTML = `Wrong! The answer was <b>${currentCard.spanish}</b>`;
 }
 
 function succeed(){
   wins += 1;
+  resultDiv.classList.remove("text-danger");
+  resultDiv.classList.add("text-success");
   resultDiv.innerHTML = "Well done!";
 }
 
@@ -300,7 +308,7 @@ function updateSelection(btn, add){
     selection.cards -= cards
   }
 
-  document.getElementById('card-number').innerHTML = `Cards: ${selection.cards}`;
+  document.getElementById('card-number').innerHTML = `Deck Size: ${selection.cards}`;
 }
 
 
@@ -315,24 +323,24 @@ function loadDeckSelection(data){
     let categoriesString = "";
     for (const categoryName in categories){
       let categoryCardNumber = categories[categoryName].length;
-      let categoryString = `<div><button class="category-btn" onclick="onCategoryBtn(event)" 
+      let categoryString = `<div class=" col-lg-3 col-4 pt-1 g-4 "><div class=""><button class="category-btn btn-no-wrap  btn btn-primary  w-100 py-4" onclick="onCategoryBtn(event)" 
       data-type="${wordType}" data-category="${categoryName}" data-cards="${categoryCardNumber}" >${categoryName} </button> 
-      Cards: ${categoryCardNumber}</div>`;
+      </div> <div class=" pt-3">Cards: ${categoryCardNumber}</div></div>`;
 
       categoriesString += categoryString;
       typeCardsNumber += categoryCardNumber;
     }
     
-    categoriesString += `<div><button onclick="onAllTypeBtn(event, true)">All</button></div>`;
-    categoriesString += `<div><button onclick="onAllTypeBtn(event, false)">Clear</button></div>`;
+    categoriesString += `<div class="row mx-0 justify-content-between mt-5"><div class="col-lg-5 col-6"><button class="btn  btn-primary w-100 py-3 add-btn" onclick="onAllTypeBtn(event, true)">All</button></div>`;
+    categoriesString += `<div class="col-lg-5 col-6  "><button class="btn  btn-primary w-100 py-3 clear-btn" onclick="onAllTypeBtn(event, false)">Clear</button></div></div>`;
 
-    typeString = `<div class="typeContainer"><div>${wordType} - Cards: ${typeCardsNumber} </div> ${categoriesString} </div>`;
+    typeString = `<div class="typeContainer row align-items-center mb-5"><div class="row d-flex align-items-center"><div class="col-6 text-start h3">${wordType} </div> <div class="col-6 text-end h5"> Cards: ${typeCardsNumber} </div> </div> ${categoriesString} </div>`;
 
     dataString += typeString;
     cardsNumber += typeCardsNumber;
   }
 
-  document.getElementById('card-number').innerHTML = `Cards: 0`;
+  document.getElementById('card-number').innerHTML = `Deck Size: 0`;
   deckCreationContentDiv.innerHTML = dataString;
 }
 
