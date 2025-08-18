@@ -1,182 +1,78 @@
 {
-    "nouns": {
-        "places to visit when you hate your life": [
+    "Nouns": {
+        "Days of week": [
             {
-                "spanish": "tiempo",
-                "english": "time",
+                "english": "January",
+                "spanish": "enero",
                 "hasImage": true,
-                "image": "https://images.pexels.com/photos/32868540/pexels-photo-32868540.jpeg?_gl=1*vdxk17*_ga*OTgzMjA1MDMxLjE3NTUzMTYzMjE.*_ga_8JE65Q40S6*czE3NTUzMTYzMjAkbzEkZzEkdDE3NTUzMTcyODEkajU4JGwwJGgw"
+                "image": "https://images.pexels.com/photos/1764429/pexels-photo-1764429.jpeg?_gl=1*g7j78r*_ga*OTgzMjA1MDMxLjE3NTUzMTYzMjE.*_ga_8JE65Q40S6*czE3NTU0ODAxMzkkbzMkZzEkdDE3NTU0ODAxNDYkajUzJGwwJGgw"
             },
             {
-                "spanish": "segundo",
-                "english": "second",
+                "english": "February",
+                "spanish": "febrero",
                 "hasImage": true,
-                "image": "https://images.pexels.com/photos/97307/pexels-photo-97307.jpeg?_gl=1*23bdst*_ga*OTgzMjA1MDMxLjE3NTUzMTYzMjE.*_ga_8JE65Q40S6*czE3NTUzMTYzMjAkbzEkZzEkdDE3NTUzMTczNDIkajU5JGwwJGgw"
-            }
-        ],
-        "p": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1579343580826-6323adb66545?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "March",
+                "spanish": "marzo",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "persodfns": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1582647790126-0fd37ff34f98?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "April",
+                "spanish": "abril",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "pebrsonas": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.pexels.com/photos/6945789/pexels-photo-6945789.jpeg?_gl=1*kwoffv*_ga*OTgzMjA1MDMxLjE3NTUzMTYzMjE.*_ga_8JE65Q40S6*czE3NTU0ODAxMzkkbzMkZzEkdDE3NTU0ODAzNTckajUxJGwwJGgw"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "May",
+                "spanish": "mayo",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "personaas": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1588006173527-6168350e6079?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "June",
+                "spanish": "junio",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "personas": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1589726310756-0198bd0d0fb2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "July",
+                "spanish": "julio",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "personsf": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1593448848034-3c46687639f6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "August",
+                "spanish": "agosto",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "persofns": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1712750133335-c58189a2861a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "September",
+                "spanish": "septiembre",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ],
-        "persoans": [
-            {
-                "spanish": "padre",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
+                "image": "https://images.unsplash.com/photo-1611302457661-d24c21494f2a?q=80&w=953&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "spanish": "madre",
-                "english": "mother",
+                "english": "October",
+                "spanish": "octubre",
                 "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
+                "image": "https://plus.unsplash.com/premium_photo-1723874499455-8b4724876c88?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "November",
+                "spanish": "noviembre",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1604440976409-d70080acb7d8?q=80&w=1253&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "December",
+                "spanish": "diciembre",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1604440976150-c12352c982ce?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ]
-    },
-    "verbs": {
-        "time2": [
-            {
-                "spanish": "tiempo2",
-                "english": "time",
-                "hasImage": false,
-                "image": ""
-            },
-            {
-                "spanish": "segundo2",
-                "english": "second",
-                "hasImage": false,
-                "image": ""
-            }
-        ],
-        "persons2": [
-            {
-                "spanish": "padre2",
-                "english": "father",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/man-carrying-baby-vJLv__K7zU8"
-            },
-            {
-                "spanish": "madre2",
-                "english": "mother",
-                "hasImage": true,
-                "image": "https://unsplash.com/photos/mother-carrying-baby-Z4GKcFAGck4"
-            }
-        ]
-    },
-    "salut": {},
-    "sdaf": {},
-    "sdf": {
-        "yoyo": [
-            {
-                "english": "zooba",
-                "spanish": "zo",
-                "hasImage": true,
-                "image": "tab"
-            },
-            {
-                "english": "fu",
-                "spanish": "fuu",
-                "hasImage": true,
-                "image": "link"
-            }
-        ]
-    },
-    "dsdsafsadg": {},
-    "sdfjfsda": {},
-    "sdlkfsapp": {},
-    "sadfa": {}
+    }
 }

@@ -145,7 +145,7 @@ def update_card():
         if ask_yes_or_no(f"Do you want to modify the {k} field?"):
             while True:
                 new_value = get_user_input(f"Type the new {k} value")
-                print(f"New change -> {k}: {new_value}")
+                print(f"{k}: {v} -> {k}: {new_value}")
                 if ask_yes_or_no("Do you want to accept this modification?"):
                     new_card[k] = new_value
                     break
@@ -206,7 +206,7 @@ def remove_card():
     selected_english_name = user_string_match("english names",get_english_keys(selected_category))
     selected_card = get_card_by_english(selected_category, selected_english_name)
     if ask_yes_or_no(f"Are you sure you want to remove {selected_card}?"):
-        del_list(selected_card)
+        del_list(selected_category,selected_card)
         update_json()
         return f"Card {selected_card} removed!"
     
@@ -230,7 +230,8 @@ def add_card():
     new_card["hasImage"] = ask_yes_or_no("Is there an image?")
     if new_card["hasImage"]:
         new_card["image"] = get_user_input("Type the image link (with extension at the end)")
-    
+    else:
+        new_card["image"] = ""
     add_list(selected_category, new_card)
     update_json()
 
