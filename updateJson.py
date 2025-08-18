@@ -12,7 +12,7 @@ def load_json_file(filepath):
     if not os.path.exists(filepath):
         print(f"File '{filepath}' not found, created it!")
         with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump({}, f, indent=4)
+            json.dump({}, f, ensure_ascii=False, indent=4)
             return ()
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -22,7 +22,7 @@ def update_json():
         print(f"File '{FILE_PATH}' not found!")
         return
     with open(FILE_PATH, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 COMMANDS = """
     Options:
@@ -232,10 +232,13 @@ def add_card():
         new_card["image"] = get_user_input("Type the image link (with extension at the end)")
     else:
         new_card["image"] = ""
-    add_list(selected_category, new_card)
-    update_json()
 
-    return f"Card {new_card} created!"
+    if ask_yes_or_no(f"Are you sure you want to create {new_card}?"):
+        add_list(selected_category, new_card)
+        update_json()
+        return f"Card {new_card} created!"
+
+    return "Could not add card"
 
 def add_category():
     selected_type = get_type()
