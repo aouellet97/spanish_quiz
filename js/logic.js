@@ -177,6 +177,8 @@ function newQuizRound(){
   EnglishWordDiv.innerHTML = currentCard.english;
   if (currentCard.hasImage){
     quizImage.src = currentCard.image;
+  } else {
+    quizImage.src = "";
   }
 }
 

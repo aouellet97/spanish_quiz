@@ -120,258 +120,334 @@
         ],
         "People": [
             {
-                "english": "Father",
-                "spanish": "padre",
+                "english": "The father",
+                "spanish": "el padre",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1595930322437-3d2c54875122?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Mother",
-                "spanish": "madre",
+                "english": "The mother",
+                "spanish": "la madre",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1542385151-efd9000785a0?q=80&w=689&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Brother",
-                "spanish": "hermano",
+                "english": "The brother",
+                "spanish": "el hermano",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1512903395504-b63780a3497c?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Sister",
-                "spanish": "hermana",
+                "english": "The sister",
+                "spanish": "la hermana",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1476234251651-f353703a034d?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Son",
-                "spanish": "hijo",
+                "english": "The son",
+                "spanish": "el hijo",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1564156280315-1d42b4651629?q=80&w=1084&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Daughter",
-                "spanish": "hija",
+                "english": "The daughter",
+                "spanish": "la hija",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1664051270935-8b6a08d5d3e8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Grandfather",
-                "spanish": "abuelo",
+                "english": "The grandfather",
+                "spanish": "el abuelo",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1661281242866-73bcc9a31858?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Grandmother",
-                "spanish": "abuela",
+                "english": "The grandmother",
+                "spanish": "la abuela",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1679429320682-e7eecc5ea42b?q=80&w=709&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Uncle",
-                "spanish": "tío",
+                "english": "The uncle",
+                "spanish": "el tío",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1664051271036-caea6900616e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Aunt",
-                "spanish": "tía",
+                "english": "The aunt",
+                "spanish": "la tía",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1695754439154-5f65d5bb7f55?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Cousin (male)",
-                "spanish": "primo",
+                "english": "The cousin (male)",
+                "spanish": "el primo",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1682092626154-8bf83242990b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Cousin (female)",
-                "spanish": "prima",
+                "english": "The cousin (female)",
+                "spanish": "la prima",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1476234251651-f353703a034d?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Man",
-                "spanish": "hombre",
+                "english": "The man",
+                "spanish": "el hombre",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1664533227571-cb18551cac82?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Woman",
-                "spanish": "mujer",
+                "english": "The woman",
+                "spanish": "la mujer",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1689551670902-19b441a6afde?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Friend",
-                "spanish": "amigo",
+                "english": "The friend (male)",
+                "spanish": "el amigo",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1661719880750-4c0de579cd09?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Girl",
-                "spanish": "niña",
+                "english": "The girl",
+                "spanish": "la niña",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1664366737698-3a98169201c3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Boy",
-                "spanish": "niño",
+                "english": "The boy",
+                "spanish": "el niño",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1588953936179-d2a4734c5490?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Family",
-                "spanish": "familia",
+                "english": "The family",
+                "spanish": "la familia",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1579538506280-84e461ad0077?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Baby",
-                "spanish": "bebé",
+                "english": "The baby",
+                "spanish": "el bebé",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The friend (female)",
+                "spanish": "la amiga",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1505483531331-fc3cf89fd382?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ],
         "Animals": [
             {
-                "english": "Dog",
-                "spanish": "perro",
+                "english": "The dog",
+                "spanish": "el perro",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Cat",
-                "spanish": "gato",
+                "english": "The cat",
+                "spanish": "el gato",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1472491235688-bdc81a63246e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Bird",
-                "spanish": "pájaro",
+                "english": "The bird",
+                "spanish": "el pájaro",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1486365227551-f3f90034a57c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Fish",
-                "spanish": "pez",
+                "english": "The fish",
+                "spanish": "el pez",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1497671954146-59a89ff626ff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Horse",
-                "spanish": "caballo",
+                "english": "The horse",
+                "spanish": "el caballo",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Cow",
-                "spanish": "vaca",
+                "english": "The cow",
+                "spanish": "la vaca",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Animal",
-                "spanish": "animal",
+                "english": "The animal",
+                "spanish": "el animal",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1623387641168-d9803ddd3f35?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Sheep",
-                "spanish": "oveja",
+                "english": "The sheep",
+                "spanish": "la oveja",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Pig",
-                "spanish": "cerdo",
+                "english": "The pig",
+                "spanish": "el cerdo",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1580682777666-24a7b3024e24?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Rabbit",
-                "spanish": "conejo",
+                "english": "The rabbit",
+                "spanish": "el conejo",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1661832480567-68a86cb46f34?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Mouse",
-                "spanish": "ratón",
+                "english": "The mouse",
+                "spanish": "el ratón",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1624116518496-993146f67f4a?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Lion",
-                "spanish": "león",
+                "english": "The lion",
+                "spanish": "el león",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1664304310991-b43610000fc2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Tiger",
-                "spanish": "tigre",
+                "english": "The tiger",
+                "spanish": "el tigre",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1549480017-d76466a4b7e8?q=80&w=1156&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Elephant",
-                "spanish": "elefante",
+                "english": "The elephant",
+                "spanish": "el elefante",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1584550127005-436aebe461be?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Zebra",
-                "spanish": "cebra",
+                "english": "The zebra",
+                "spanish": "la cebra",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1526319238109-524eecb9b913?q=80&w=1124&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Bear",
-                "spanish": "oso",
+                "english": "The bear",
+                "spanish": "el oso",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Wolf",
-                "spanish": "lobo",
+                "english": "The wolf",
+                "spanish": "el lobo",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1504715329877-f69f5258f4e8?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Giraffe",
-                "spanish": "jirafa",
+                "english": "The giraffe",
+                "spanish": "la jirafa",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1661813434310-98cca4c9135e?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Monkey",
-                "spanish": "mono",
+                "english": "The monkey",
+                "spanish": "el mono",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1471421455671-b9e8a4114185?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Turtle",
-                "spanish": "tortuga",
+                "english": "The turtle",
+                "spanish": "la tortuga",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Snake",
-                "spanish": "serpiente",
+                "english": "The snake",
+                "spanish": "la serpiente",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1585095595205-e68428a9e205?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Shark",
-                "spanish": "tiburón",
+                "english": "The shark",
+                "spanish": "el tiburón",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "Whale",
-                "spanish": "ballena",
+                "english": "The whale",
+                "spanish": "la ballena",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1724668625323-ccd85574c6b9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "Periods of the day": [
+            {
+                "english": "The day",
+                "spanish": "el día",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1598992048970-fa53d75547f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The night",
+                "spanish": "la noche",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1497294815431-9365093b7331?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The morning",
+                "spanish": "la mañana",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1658506957388-8346aa2c6f6b?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The afternoon",
+                "spanish": "la tarde",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1729248420548-c9b681858210?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "Time": [
+            {
+                "english": "The time",
+                "spanish": "el tiempo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The second",
+                "spanish": "el segundo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The minute",
+                "spanish": "el minuto",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1754301808031-80943b8a34eb?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The hour",
+                "spanish": "la hora",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1674217929972-7289cec76f27?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The week",
+                "spanish": "la semana",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The month",
+                "spanish": "el mes",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661775621655-a7f03b54db88?q=80&w=1203&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The year",
+                "spanish": "el año",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1732896429977-5074f4532a3d?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ]
     }
