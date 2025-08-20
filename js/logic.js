@@ -135,6 +135,9 @@ function nextRound(){
   if (deck.length < 1){
     nextBtn.innerHTML = "See Results!"
   }
+
+  correctPercentDiv.innerHTML = `${((wins / (wins + missedCards.length)) * 100).toFixed(2) }%`;
+
   show(nextBtn);
 }
 
@@ -171,8 +174,6 @@ function newQuizRound(){
   pickCard();
   inputForm.value = "";
   deckDrogressionDiv.innerHTML = `Card: ${deckSize-deck.length}/${deckSize}`;
-  correctPercentDiv.innerHTML = `${deckSize - 1 == deck.length? '-' : ((wins / (wins + 
-    missedCards.length)) * 100).toFixed(2) }%`;
 
   EnglishWordDiv.innerHTML = currentCard.english;
   if (currentCard.hasImage){
@@ -215,6 +216,8 @@ function startQuiz(){
   hide(deckSizeDiv);
   show(quizDiv)
   nextBtn.innerHTML = "Next Card!"
+
+  correctPercentDiv.innerHTML = "";
 
   newQuizRound()
 }
