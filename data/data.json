@@ -449,6 +449,206 @@
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1732896429977-5074f4532a3d?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Places": [
+            {
+                "english": "The house",
+                "spanish": "la casa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The apartment",
+                "spanish": "el apartamento",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The building",
+                "spanish": "el edificio",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1550136513-548af4445338?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The street",
+                "spanish": "la calle",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The city",
+                "spanish": "la ciudad",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1669927131902-a64115445f0f?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The town",
+                "spanish": "el pueblo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1499174549139-68d3f37243b4?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The neighborhood",
+                "spanish": "el barrio",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1753795570357-bdd77720728d?q=80&w=1153&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The downtown",
+                "spanish": "el centro",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1582760548598-0bccdf815aa2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The school",
+                "spanish": "la escuela",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The university",
+                "spanish": "la universidad",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/20/cambridge.JPG?q=80&w=1147&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The workplace",
+                "spanish": "el trabajo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1560264280-88b68371db39?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The hospital",
+                "spanish": "el hospital",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pharmacy",
+                "spanish": "la farmacia",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1603555501671-8f96b3fce8b5?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The store",
+                "spanish": "la tienda",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The supermarket",
+                "spanish": "el supermercado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bank",
+                "spanish": "el banco",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The restaurant",
+                "spanish": "el restaurante",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The café",
+                "spanish": "la cafetería",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1663932464735-e0946d833749?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The hotel",
+                "spanish": "el hotel",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The park",
+                "spanish": "el parque",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1681558921634-f73645bde42f?q=80&w=1285&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The beach",
+                "spanish": "la playa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mountain",
+                "spanish": "la montaña",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1676218968741-8179dd7e533f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The countryside",
+                "spanish": "el campo",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1697644693174-216346d85792?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The river",
+                "spanish": "el río",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1672902461697-1d19c42df6fc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lake",
+                "spanish": "el lago",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The airport",
+                "spanish": "el aeropuerto",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1542296332-2e4473faf563?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The subway",
+                "spanish": "el metro",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1556695736-d287caebc48e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The gas station",
+                "spanish": "la gasolinera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The parking lot",
+                "spanish": "el estacionamiento",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661916866784-cdea580d93f7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The church",
+                "spanish": "la iglesia",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1502733121031-fd2a610a97d1?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The police station",
+                "spanish": "la comisaría",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1629320790276-08cf3ac01d7a?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The place",
+                "spanish": "el lugar",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The country",
+                "spanish": "el país",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1667932242848-640b65b18bd4?q=80&w=1717&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
         ]
     }
 }
