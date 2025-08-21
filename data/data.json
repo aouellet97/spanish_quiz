@@ -649,6 +649,68 @@
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1667932242848-640b65b18bd4?q=80&w=1717&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Drinks": [
+            {
+                "english": "The drink",
+                "spanish": "la bebida",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1622597467836-f3285f2131b8?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The water",
+                "spanish": "el agua",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1624948465027-6f9b51067557?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The coffee",
+                "spanish": "el café",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1495774856032-8b90bbb32b32?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The tea",
+                "spanish": "el té",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1674406481284-43eba097a291?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The juice",
+                "spanish": "el jugo",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1667543228378-ec4478ab2845?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The milk",
+                "spanish": "la leche",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1602153508753-4ace888c10a0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The beer",
+                "spanish": "la cerveza",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1436076863939-06870fe779c2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The wine",
+                "spanish": "el vino",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1682097091093-dd18b37764a5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The soda",
+                "spanish": "el refresco",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1725075086083-89117890371d?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lemonade",
+                "spanish": "la limonada",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1507281549113-040fcfef650e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
         ]
     }
 }
