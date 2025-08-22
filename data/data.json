@@ -711,6 +711,278 @@
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1507281549113-040fcfef650e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Food": [
+            {
+                "english": "The food/meal",
+                "spanish": "la comida",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The breakfast",
+                "spanish": "el desayuno",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1464306208223-e0b4495a5553?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lunch",
+                "spanish": "el almuerzo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1565895405138-6c3a1555da6a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dinner",
+                "spanish": "la cena",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1710186012500-68dd1e3e49f5?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The snack",
+                "spanish": "la merienda",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1604882356682-8ec3d3037c82?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dish/plate",
+                "spanish": "el plato",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1602253057119-44d745d9b860?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The fruit",
+                "spanish": "la fruta",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The vegetable",
+                "spanish": "la verdura",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664527305901-a3c8bec62850?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The meat",
+                "spanish": "la carne",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1723893905879-0e309c2a8e06?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lettuce",
+                "spanish": "la lechuga",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1675365263446-759b6028e22b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The tomato",
+                "spanish": "el tomate",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661811820259-2575b82101bf?q=80&w=1180&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The onion",
+                "spanish": "la cebolla",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1668076517573-fa01307d87ad?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The potato",
+                "spanish": "la papa",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1675365779531-031dfdcdf947?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The carrot",
+                "spanish": "la zanahoria",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1445282768818-728615cc910a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The corn",
+                "spanish": "el maíz",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1667047165840-803e47970128?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bell pepper",
+                "spanish": "el pimiento",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1506365069540-904bcc762636?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The broccoli",
+                "spanish": "el brócoli",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1702082810649-74097fd3587a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The apple",
+                "spanish": "la manzana",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661322640130-f6a1e2c36653?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The banana",
+                "spanish": "la banana",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1523667864248-fc55f5bad7e2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The orange",
+                "spanish": "la naranja",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1591206369811-4eeb2f03bc95?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pear",
+                "spanish": "la pera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1542820242-a3699d4f2bfe?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pineapple",
+                "spanish": "la piña",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1550828520-4cb496926fc9?q=80&w=1333&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The watermelon",
+                "spanish": "la sandía",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1563114773-84221bd62daa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The grapes",
+                "spanish": "las uvas",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1534985508850-11ca0c0af112?q=80&w=1633&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The strawberry",
+                "spanish": "la fresa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1591271300850-22d6784e0a7f?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lemon",
+                "spanish": "el limón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1528632735386-3bb3ead106f3?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bread",
+                "spanish": "el pan",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The rice",
+                "spanish": "el arroz",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1643622357625-c013987d90e7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pasta",
+                "spanish": "la pasta",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1705404738201-8904bca55e2a?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cereal",
+                "spanish": "el cereal",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1725469970190-3987ba4cb22b?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cheese",
+                "spanish": "el queso",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1631379578550-7038263db699?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The butter",
+                "spanish": "la mantequilla",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The chicken",
+                "spanish": "el pollo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1682991136736-a2b44623eeba?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The beef",
+                "spanish": "la carne de res",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1690983330536-3b0089d07cf9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pork",
+                "spanish": "el cerdo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1592877186734-6e558cf0dfaf?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The fish",
+                "spanish": "el pescado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1665401015549-712c0dc5ef85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The egg",
+                "spanish": "el huevo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The ham",
+                "spanish": "el jamón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1524438418049-ab2acb7aa48f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sugar",
+                "spanish": "el azúcar",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1709651808265-977ed7ef78c6?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cake",
+                "spanish": "el pastel",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=1050&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The chocolate",
+                "spanish": "el chocolate",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cookie",
+                "spanish": "la galleta",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1597733153203-a54d0fbc47de?q=80&w=1090&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The ice cream",
+                "spanish": "el helado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1629385701021-fcd568a743e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The candies",
+                "spanish": "los dulces",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dessert",
+                "spanish": "el postre",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1678715022988-417bbb94e3df?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
         ]
     }
 }
