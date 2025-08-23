@@ -34,7 +34,8 @@
             <div id="deck-size-cards" class="col-12 text-center h4 mt-4">Total Cards: 0</div>
             <div class="col-6 mt-4"><button id="ds-full-btn" onclick="onDsBtnClick(event)" class="selected-btn btn-primary btn w-100 py-3 ">Full Deck</button></div>
             <div class="col-6 mt-4"><button id="ds-half-btn" onclick="onDsBtnClick(event)" class="btn btn-primary w-100 py-3 ">Half Deck</button></div>
-            <div class="col-6 mt-5"><button onclick="startQuiz()" class="btn submit-btn text-white py-4 w-100 btn-lg">Play</button></div>
+            <div class="col-12 mt-5"><button onclick="startQuiz()" class="btn submit-btn text-white py-4 w-100 btn-lg">Play</button></div>
+            <div class="col-12 mt-5"><button onclick="startStudy()" class="btn add-btn text-white py-4 w-100 btn-lg">Study</button></div>
         </div>
     </div>
  
@@ -50,10 +51,16 @@
              
             <div class="col-lg-6 col-12 mt-4"><input id="input" type="text" placeholder="" class="form-control "/> </div>
             <div class="row mt-4 mb-5 ">
+                <div class="col-12 text-white text-center h3 pb-4 hidden" id="study"></div>
                 <div class="col-6"><button id="skip-btn" class="btn clear-btn text-white btn w-100" onclick="skipCard()">Skip</button></div>
                 <div class="col-6"><button id="answer-submit-btn" class="btn text-white submit-btn btn w-100" onclick="checkAnswer()">Submit</button></div>
                 <div class="col-6 h5" id="result"></div>
                 <div class="col-6"><button id="next-btn" class="hidden btn text-white submit-btn btn w-100" onclick="newQuizRound()">Next Card!</button></div>
+                <div class="col-12"><button id="go-btn" class="hidden btn text-white submit-btn btn w-100" onclick="studyRound()">Go</button></div>
+                <div class="col-12"><button id="study-answer-submit-btn" class="hidden btn text-white submit-btn btn w-100" onclick="checkAnswerStudy()">Submit</button></div>
+                <div class="col-12 h5 mb-3" id="study-result"></div>
+                <div class="col-12"><button id="study-restart-btn" class="hidden btn text-white clear-btn btn w-100" onclick="failStudy()">Try again!</button></div>
+                <div class="col-12"><button id="study-next-btn" class="hidden btn text-white submit-btn btn w-100" onclick="studyRound()">Next Card!</button></div>
             </div>
     
         </div>
@@ -66,6 +73,16 @@
             <div class="col-8 mt-3  h5" id="bad-words"></div>
             <div class="row">
                 <div class="col-6 mt-5"><button class="btn btn-primary text-white submit-btn w-100 py-3" onclick="onReplay()">Play Again</button></div>
+                <div class="col-6 mt-5"><button class="btn btn-primary w-100 py-3" onclick="goHome()">Home</button></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="end-study" class="text-center container hidden mt-5">
+        <div class="row mb-5 d-flex justify-content-center">
+            <div class="row">
+                <div class="col-12 h1">Well done!</div>
+                <div class="col-6 mt-5"><button class="btn btn-primary text-white submit-btn w-100 py-3" onclick="onReplayStudy()">Study Again</button></div>
                 <div class="col-6 mt-5"><button class="btn btn-primary w-100 py-3" onclick="goHome()">Home</button></div>
             </div>
         </div>

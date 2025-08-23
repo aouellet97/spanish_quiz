@@ -25,6 +25,18 @@ const endDiv = document.getElementById('end-results');
 const scoreDiv = document.getElementById('score');
 const badDiv = document.getElementById('bad-words');
 
+const study = document.getElementById('study');
+const go = document.getElementById('go-btn');
+const studyanswerSubmitBtn = document.getElementById('study-answer-submit-btn');
+const studynextBtn = document.getElementById('study-next-btn');
+const restart = document.getElementById('study-restart-btn');
+const endStudy = document.getElementById('end-study');
+const studyresultDiv = document.getElementById('study-result');
+let pickedStudyCards = []
+let currentStudyCard = null
+let pickedIndex = 0
+
+
 let quizData
 let htmlStrings
 
@@ -66,14 +78,26 @@ function onReplay(){
   startQuiz()
 }
 
+function onReplayStudy(){
+  deck = null
+  deckSize = 0
+  missedCards = []
+  wins = 0
+  currentCard = null
+  hide(endStudy);
+  startStudy()
+}
+
 function goHome(){
   resset();
+  hide(endStudy);
   resetButtons();
   document.getElementById('card-number').innerHTML = `Deck Size: 0`;
   show(deckCreationDiv);
   hide(deckSizeDiv);
   hide(quizDiv);
   hide(endDiv);
+  hide(endStudy);
 }
 
 function makeDeck(){
@@ -189,6 +213,8 @@ function pickCard(){
   currentCard = newCard;
 }
 
+
+
 function shuffleDeck(deck) {
   for (let i = deck.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -216,10 +242,124 @@ function startQuiz(){
   hide(deckSizeDiv);
   show(quizDiv)
   nextBtn.innerHTML = "Next Card!"
-
+  studyresultDiv.innerHTML = "";
   correctPercentDiv.innerHTML = "";
 
   newQuizRound()
+}
+
+function checkAnswerStudy(){
+  let input = inputForm.value.trim().toLowerCase();
+  
+  if (input === ""){
+    return ;
+  }
+
+  hide(studyanswerSubmitBtn)
+ 
+  if (input === currentStudyCard.spanish){
+    studyresultDiv.classList.remove("text-danger");
+    studyresultDiv.classList.add("text-success");
+    studyresultDiv.innerHTML = "Well done!";
+    show(studynextBtn)
+  } else{
+    studyresultDiv.classList.remove("text-success");
+    studyresultDiv.classList.add("text-danger");
+    studyresultDiv.innerHTML = `Wrong! The answer was <b>${currentStudyCard.spanish}</b>`;
+    show(restart)
+  }
+
+}
+
+function failStudy(){
+  pickedIndex = 0;
+  shuffleDeck(pickedStudyCards);
+  studyRound();
+}
+
+function newStudyRound(){
+  if (deck.length == 0){
+    hide(quizDiv);
+    show(endStudy);
+    return ;
+  }
+
+  hide(inputForm);
+  hide(studyanswerSubmitBtn);
+  show(study);
+  show(go);
+ 
+  pickCard();
+  pickedStudyCards.push(currentCard)
+  shuffleDeck(pickedStudyCards);
+  pickedIndex = 0
+  study.innerHTML = currentCard.spanish
+studyresultDiv.innerHTML = "";
+  deckDrogressionDiv.innerHTML = `Card: ${deckSize-deck.length}/${deckSize}`;
+
+  EnglishWordDiv.innerHTML = "New card: " + currentCard.english;
+  if (currentCard.hasImage){
+    quizImage.src = currentCard.image;
+  } else {
+    quizImage.src = "";
+  }
+}
+
+function studyRound(){
+  hide(studynextBtn)
+  hide(restart)
+ 
+  if (pickedIndex === pickedStudyCards.length){
+    newStudyRound();
+    return ;
+  }
+
+  hide(go);
+  hide(study);
+  show(inputForm);
+  show(studyanswerSubmitBtn);
+
+  currentStudyCard = pickedStudyCards[pickedIndex];
+  pickedIndex += 1;
+  inputForm.value = "";
+  studyresultDiv.innerHTML = "";
+
+   
+  deckDrogressionDiv.innerHTML = `Card: ${pickedIndex}/${pickedStudyCards.length}`;
+  EnglishWordDiv.innerHTML = currentStudyCard.english;
+
+  if (currentStudyCard.hasImage){
+    quizImage.src = currentStudyCard.image;
+  } else {
+    quizImage.src = "";
+  }
+}
+
+function startStudy(){
+
+  let newDeck = makeDeck()
+  shuffleDeck(newDeck);
+
+  if (selection.half) {
+    newDeck = getHalf(newDeck);
+  }
+  deck = newDeck;
+  deckSize = deck.length;
+
+  resultDiv.innerHTML = "";
+  hide(deckSizeDiv);
+  hide(skipBtn);
+  hide(nextBtn);
+  hide(study);
+  hide(answerSubmitBtn);
+  show(quizDiv);
+  pickedStudyCards = []
+  currentStudyCard = null
+  pickedIndex = 0
+  
+  correctPercentDiv.innerHTML = "";
+
+  newStudyRound()
 }
 
 function onDsBtnClick(event){
