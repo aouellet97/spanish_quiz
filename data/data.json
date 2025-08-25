@@ -238,6 +238,12 @@
                 "spanish": "la amiga",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1505483531331-fc3cf89fd382?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The person",
+                "spanish": "la persona",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ],
         "Animals": [
@@ -470,19 +476,13 @@
                 "image": "https://images.unsplash.com/photo-1550136513-548af4445338?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "The street",
-                "spanish": "la calle",
-                "hasImage": true,
-                "image": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
                 "english": "The city",
                 "spanish": "la ciudad",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1669927131902-a64115445f0f?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "The town",
+                "english": "The town/village",
                 "spanish": "el pueblo",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1499174549139-68d3f37243b4?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -608,12 +608,6 @@
                 "image": "https://images.unsplash.com/photo-1542296332-2e4473faf563?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "The subway",
-                "spanish": "el metro",
-                "hasImage": true,
-                "image": "https://images.unsplash.com/photo-1556695736-d287caebc48e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
                 "english": "The gas station",
                 "spanish": "la gasolinera",
                 "hasImage": true,
@@ -648,6 +642,18 @@
                 "spanish": "el país",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1667932242848-640b65b18bd4?q=80&w=1717&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The farm",
+                "spanish": "la granja",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?q=80&w=1678&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The port",
+                "spanish": "el puerto",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661963131307-f79ad259ccfc?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ],
         "Drinks": [
@@ -982,6 +988,128 @@
                 "spanish": "el postre",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1678715022988-417bbb94e3df?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mushroom",
+                "spanish": "el champiñón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1583329947086-fce348672081?q=80&w=1633&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "Transports": [
+            {
+                "english": "The subway",
+                "spanish": "el metro",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1556695736-d287caebc48e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The car",
+                "spanish": "el carro",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1459603677915-a62079ffd002?q=80&w=2134&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bus",
+                "spanish": "el autobús",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664302152991-d013ff125f3f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The truck",
+                "spanish": "el camión",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1733342421852-3bce709563e4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The train",
+                "spanish": "el tren",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?q=80&w=1284&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bicycle",
+                "spanish": "la bicicleta",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The taxi",
+                "spanish": "el taxi",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1482287068671-7fb7325e1a8d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The highway",
+                "spanish": "la autopista",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1465447142348-e9952c393450?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The road",
+                "spanish": "la carretera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lane",
+                "spanish": "el carril",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1518521854303-57ea901d3185?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The route",
+                "spanish": "la ruta",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1621421770492-272ae6d7882a?q=80&w=1333&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The plane",
+                "spanish": "el avión",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1529074963764-98f45c47344b?q=80&w=1186&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The helicopter",
+                "spanish": "el helicóptero",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1495554698253-681539e9ea84?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The boat/ship",
+                "spanish": "el barco",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1593351415075-3bac9f45c877?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cruise ship",
+                "spanish": "el crucero",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1554254648-2d58a1bc3fd5?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The driver",
+                "spanish": "el conductor",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1681821679118-bb069eeb2d98?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The passenger",
+                "spanish": "el pasajero",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664298802879-4cf91c5e71dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pedestrian",
+                "spanish": "el peatón",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1681880977370-bfb56b2be581?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The street",
+                "spanish": "la calle",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ]
     }
