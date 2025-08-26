@@ -512,12 +512,6 @@
                 "image": "https://images.unsplash.com/20/cambridge.JPG?q=80&w=1147&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "The workplace",
-                "spanish": "el trabajo",
-                "hasImage": true,
-                "image": "https://images.unsplash.com/photo-1560264280-88b68371db39?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
                 "english": "The hospital",
                 "spanish": "el hospital",
                 "hasImage": true,
@@ -1142,6 +1136,152 @@
                 "spanish": "el invierno",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1455156218388-5e61b526818b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "Professions": [
+            {
+                "english": "The work/job",
+                "spanish": "el trabajo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1560264280-88b68371db39?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The profession",
+                "spanish": "la profesión",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1679395561581-9d9bc2584047?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The job/employment",
+                "spanish": "el empleo",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661782480332-b13e3172660d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The career",
+                "spanish": "la carrera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The doctor",
+                "spanish": "el médico",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The teacher",
+                "spanish": "el profesor",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1664382953518-4a664ab8a8c9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The student",
+                "spanish": "el estudiante",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The nurse",
+                "spanish": "el enfermero",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1621862912856-0909fb7f14b7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dentist",
+                "spanish": "el dentista",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1672922646298-3afc6c6397c9?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cook/chef",
+                "spanish": "el cocinero",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1687697861242-03e99059e833?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The waiter",
+                "spanish": "el camarero",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661724656715-898dd40cf8a0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The police officer",
+                "spanish": "el policía",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1556474835-47da4fcf709c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The firefighter",
+                "spanish": "el bombero",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1563062067-7700e1d9ae1d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pilot",
+                "spanish": "el piloto",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661746446654-ad66aa338843?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The musician",
+                "spanish": "el músico",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1595971294624-80bcf0d7eb24?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The artist",
+                "spanish": "el artista",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1628359355624-855775b5c9c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The actor",
+                "spanish": "el actor",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1542303664-4e34a25408be?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The farmer",
+                "spanish": "el agricultor",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661418213527-d4dc03b8aae3?q=80&w=1127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mechanic",
+                "spanish": "el mecánico",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1674375348357-a25140a68bbd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The scientist",
+                "spanish": "el científico",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661374909989-d653eaa4f62d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The boss",
+                "spanish": "el jefe",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1682432414198-0d634a3640a0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The store clerk",
+                "spanish": "el dependiente",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1663039857254-b5bbeec1feb6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The veterinarian",
+                "spanish": "el veterinario",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1677165479692-180fac4c0832?q=80&w=1155&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The worker",
+                "spanish": "el trabajador",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ]
     }
