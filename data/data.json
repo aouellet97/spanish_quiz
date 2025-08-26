@@ -454,6 +454,12 @@
                 "spanish": "el año",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1732896429977-5074f4532a3d?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The day",
+                "spanish": "el día",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1541232876724-6e25c6dfa788?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ],
         "Places": [
