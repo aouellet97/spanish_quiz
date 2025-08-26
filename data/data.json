@@ -1111,6 +1111,38 @@
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Seasons": [
+            {
+                "english": "The season",
+                "spanish": "la estación",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The spring",
+                "spanish": "la primavera",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1720524513100-2fa5f656272f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The summer",
+                "spanish": "el verano",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1720217473128-a11a0b6d3a5f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The autumn",
+                "spanish": "el otoño",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The winter",
+                "spanish": "el invierno",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1455156218388-5e61b526818b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
         ]
     }
 }
