@@ -464,6 +464,12 @@
         ],
         "Places": [
             {
+                "english": "The park",
+                "spanish": "el parque",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1681558921634-f73645bde42f?q=80&w=1285&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
                 "english": "The house",
                 "spanish": "la casa",
                 "hasImage": true,
@@ -566,40 +572,10 @@
                 "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
-                "english": "The park",
-                "spanish": "el parque",
-                "hasImage": true,
-                "image": "https://plus.unsplash.com/premium_photo-1681558921634-f73645bde42f?q=80&w=1285&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-                "english": "The beach",
-                "spanish": "la playa",
-                "hasImage": true,
-                "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-                "english": "The mountain",
-                "spanish": "la montaña",
-                "hasImage": true,
-                "image": "https://plus.unsplash.com/premium_photo-1676218968741-8179dd7e533f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
                 "english": "The countryside",
                 "spanish": "el campo",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1697644693174-216346d85792?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-                "english": "The river",
-                "spanish": "el río",
-                "hasImage": true,
-                "image": "https://images.unsplash.com/photo-1672902461697-1d19c42df6fc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-                "english": "The lake",
-                "spanish": "el lago",
-                "hasImage": true,
-                "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             },
             {
                 "english": "The airport",
@@ -654,6 +630,12 @@
                 "spanish": "el puerto",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1661963131307-f79ad259ccfc?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The world",
+                "spanish": "el mundo",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1679998166179-ff35e219ab7e?q=80&w=1104&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ],
         "Drinks": [
@@ -1294,6 +1276,188 @@
                 "spanish": "el cajero",
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1663091668432-59de04530f73?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "Nature": [
+            {
+                "english": "The beach",
+                "spanish": "la playa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mountain",
+                "spanish": "la montaña",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1676218968741-8179dd7e533f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The river",
+                "spanish": "el río",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1672902461697-1d19c42df6fc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lake",
+                "spanish": "el lago",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The plant",
+                "spanish": "la planta",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1673203734665-0a534c043b7f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The flower",
+                "spanish": "la flor",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1533907650686-70576141c030?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The tree",
+                "spanish": "el árbol",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The leaf",
+                "spanish": "la hoja",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1536882240095-0379873feb4e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The grass",
+                "spanish": "el pasto",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1489065094455-c2d576ff27a0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bush",
+                "spanish": "el arbusto",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1592083646587-2c84f8e0fd2b?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sea",
+                "spanish": "el mar",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1468581264429-2548ef9eb732?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The ocean",
+                "spanish": "el océano",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1488921618671-463b781ac428?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The forest",
+                "spanish": "el bosque",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The desert",
+                "spanish": "el desierto",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The hill",
+                "spanish": "la colina",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1696339814784-0c1b6a69ea6b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The island",
+                "spanish": "la isla",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The waterfall",
+                "spanish": "la cascada",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sun",
+                "spanish": "el sol",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1663013006667-e07512fd39d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The moon",
+                "spanish": "la luna",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1685959222430-9ab84326847f?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The star",
+                "spanish": "la estrella",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1638000707475-43d76b59e31e?q=80&w=1034&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sky",
+                "spanish": "el cielo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1597200381847-30ec200eeb9a?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cloud",
+                "spanish": "la nube",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1601370552761-d129028bd833?q=80&w=1167&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The rain",
+                "spanish": "la lluvia",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1511634829096-045a111727eb?q=80&w=1634&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The snow",
+                "spanish": "la nieve",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1487383298905-ee8a6b373ff9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The wind",
+                "spanish": "el viento",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1505672678657-cc7037095e60?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The nature",
+                "spanish": "la naturaleza",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The earth/soil/land",
+                "spanish": "la tierra",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1519462568576-0c687427fb2e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The volcano",
+                "spanish": "el volcán",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1580250642511-1660fe42ad58?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The fire",
+                "spanish": "el fuego",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1517594422361-5eeb8ae275a9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The stone",
+                "spanish": "la piedra",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1675490807667-ef782a556757?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ]
     }
