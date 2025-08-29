@@ -1598,6 +1598,156 @@
                 "spanish": "el vecino",
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1609054841737-9feb7029bd7b?q=80&w=962&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bed",
+                "spanish": "la cama",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1582582621959-48d27397dc69?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mattress",
+                "spanish": "el colchón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1647376036543-f9f543601a1d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pillow",
+                "spanish": "la almohada",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1686167985756-547e99e364e2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The blanket",
+                "spanish": "la cobija",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1672868761629-5fc2008539f4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The wardrobe/closet",
+                "spanish": "el ropero",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664202526559-e21e9c0fb46a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dresser",
+                "spanish": "la cómoda",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1612908317776-a3afde8232fa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The nightstand",
+                "spanish": "la mesita de noche",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The couch",
+                "spanish": "el sofá",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1512212621149-107ffe572d2f?q=80&w=1180&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The tv",
+                "spanish": "el televisor",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1681236323432-3df82be0c1b0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The table",
+                "spanish": "la mesa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1615803796379-b4cda8e9c09c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The chair",
+                "spanish": "la silla",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?q=80&w=2118&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The stove",
+                "spanish": "la estufa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1580929753603-10519c6e480a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The oven",
+                "spanish": "el horno",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1565357253897-79d691886a73?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The fridge",
+                "spanish": "el refrigerador",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1536353284924-9220c464e262?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The freezer",
+                "spanish": "el congelador",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1663013522393-4c057b7a0b5f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The counter",
+                "spanish": "la encimera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1574739782594-db4ead022697?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The microwave",
+                "spanish": "el microondas",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1693786229416-2dd310137f18?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The lamp",
+                "spanish": "la lámpara",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The toilet",
+                "spanish": "el inodoro",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1589824783837-6169889fa20f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sink",
+                "spanish": "el lavabo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1595514535316-b8c85bf9bbf9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The shower",
+                "spanish": "la ducha",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1576678433413-202829a1ab98?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bathtub",
+                "spanish": "la bañera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mirror",
+                "spanish": "el espejo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1603572298498-848f70a46d29?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The washing machine",
+                "spanish": "la lavadora",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dryer",
+                "spanish": "la secadora",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1723863628159-dcec7cf67efc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
         ]
     }
