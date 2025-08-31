@@ -1749,6 +1749,98 @@
                 "hasImage": true,
                 "image": "https://plus.unsplash.com/premium_photo-1723863628159-dcec7cf67efc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Clothing": [
+            {
+                "english": "The clothes",
+                "spanish": "la ropa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The socks",
+                "spanish": "los calcetines",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1513885332241-c2799e2e7609?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The shoes",
+                "spanish": "los zapatos",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The underwear",
+                "spanish": "la ropa interior",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The pants",
+                "spanish": "los pantalones",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The shirt",
+                "spanish": "la camisa",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1718913931807-4da5b5dd27fa?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The coat",
+                "spanish": "el abrigo",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1671030274122-b6ac34f87b8b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The dress",
+                "spanish": "el vestido",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The skirt",
+                "spanish": "la falda",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1582142306909-195724d33ffc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The glasses",
+                "spanish": "los lentes",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The hat",
+                "spanish": "el sombrero",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1723774692192-c9ecbedf95cf?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The purse",
+                "spanish": "la cartera",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The watch",
+                "spanish": "el reloj",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=1180&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The belt",
+                "spanish": "el cinturón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The wallet",
+                "spanish": "la billetera",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1681589453747-53fd893fa420?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
         ]
     }
 }
