@@ -1853,6 +1853,158 @@
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1617118602199-d3c05ae37ed8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Body parts": [
+            {
+                "english": "The body",
+                "spanish": "el cuerpo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The head",
+                "spanish": "la cabeza",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The face",
+                "spanish": "la cara",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The hair",
+                "spanish": "el pelo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The eye",
+                "spanish": "el ojo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The nose",
+                "spanish": "la nariz",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The ear",
+                "spanish": "la oreja",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The mouth",
+                "spanish": "la boca",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The tongue",
+                "spanish": "la lengua",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The tooth",
+                "spanish": "el diente",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The neck",
+                "spanish": "el cuello",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The shoulder",
+                "spanish": "el hombro",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The chest",
+                "spanish": "el pecho",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The back",
+                "spanish": "la espalda",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The arm",
+                "spanish": "el brazo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The elbow",
+                "spanish": "el codo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The hand",
+                "spanish": "la mano",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The finger",
+                "spanish": "el dedo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The stomach",
+                "spanish": "el estómago",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The heart",
+                "spanish": "el corazón",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The brain",
+                "spanish": "el cerebro",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The leg",
+                "spanish": "la pierna",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The knee",
+                "spanish": "la rodilla",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The foot",
+                "spanish": "el pie",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The toe",
+                "spanish": "el dedo del pie",
+                "hasImage": false,
+                "image": ""
+            }
         ]
     }
 }
