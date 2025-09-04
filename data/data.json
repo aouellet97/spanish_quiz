@@ -2005,6 +2005,254 @@
                 "hasImage": false,
                 "image": ""
             }
+        ],
+        "Objects": [
+            {
+                "english": "The phone",
+                "spanish": "el teléfono",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cellphone",
+                "spanish": "el celular",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1680985551009-05107cd2752c?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The computer",
+                "spanish": "la computadora",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The keyboard",
+                "spanish": "el teclado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=1165&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The mouse",
+                "spanish": "el ratón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1554576575-a4e7b6e8409d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The headphones",
+                "spanish": "los auriculares",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?q=80&w=1113&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The glass",
+                "spanish": "el vaso",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1534616042650-80f5c9b61f09?q=80&w=1024&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cup",
+                "spanish": "la taza",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1668972393852-4c1adf9687c3?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The fork",
+                "spanish": "el tenedor",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1619367300934-373d9adf7dfb?q=80&w=1242&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The knife",
+                "spanish": "el cuchillo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1588597575483-f4e43e191c94?q=80&w=1233&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The spoon",
+                "spanish": "la cuchara",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1619367300942-634bf2339af6?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The soap",
+                "spanish": "el jabón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1584305574647-0cc949a2bb9f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The shampoo",
+                "spanish": "el champú",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1655892810227-c0cffe1d9717?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The towel",
+                "spanish": "la toalla",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1523471826770-c437b4636fe6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The keys",
+                "spanish": "las llaves",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1643804926339-e94f0a655185?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The umbrella",
+                "spanish": "el paraguas",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664303017917-71ebeb42343d?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The broom",
+                "spanish": "la escoba",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1585933646706-7b629be871aa?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bucket",
+                "spanish": "el balde",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1589630388147-68b3a2172e0c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sponge",
+                "spanish": "la esponja",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1618038483079-bfe64dcb17f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pen",
+                "spanish": "el bolígrafo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1585997631913-896180ae8acb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The pencil",
+                "spanish": "el lápiz",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1667687435942-4fdff73a3ed6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The paper",
+                "spanish": "el papel",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1727363543748-13496dea91a8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The sheet",
+                "spanish": "la hoja",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1725375918574-d33277c7a8e0?q=80&w=1226&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The notebook",
+                "spanish": "el cuaderno",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1612367980327-7454a7276aa7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The eraser",
+                "spanish": "la goma",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1627186131254-702e182adb80?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The ruler",
+                "spanish": "la regla",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1529651795107-e5a141e34843?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The scissors",
+                "spanish": "las tijeras",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1503792501406-2c40da09e1e2?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The glue",
+                "spanish": "el pegamento",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1536786724684-63545518d243?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The folder/binder",
+                "spanish": "la carpeta",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1661732017120-f487ae211533?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The money",
+                "spanish": "el dinero",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The coin",
+                "spanish": "la moneda",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1586974710160-55f48f417990?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bill",
+                "spanish": "el billete",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1500496733680-167c3db69389?q=80&w=1041&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The cash register",
+                "spanish": "la caja",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1647427017458-f6df91d046eb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The shopping cart",
+                "spanish": "el carrito",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The backpack",
+                "spanish": "la mochila",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1509762774605-f07235a08f1f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The bag",
+                "spanish": "la bolsa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1630381260512-e3fe55c11973?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The toothbrush",
+                "spanish": "el cepillo de dientes",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664544673659-d596c92ff3ec?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The book",
+                "spanish": "el libro",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The candle",
+                "spanish": "la vela",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1528351655744-27cc30462816?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The toy",
+                "spanish": "el juguete",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1508896694512-1eade558679c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "The hammer",
+                "spanish": "el martillo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
         ]
     }
 }
