@@ -2253,6 +2253,176 @@
                 "hasImage": true,
                 "image": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
+        ],
+        "Abstract 1": [
+            {
+                "english": "The love",
+                "spanish": "el amor",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The fear",
+                "spanish": "el miedo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The present",
+                "spanish": "el presente",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The future",
+                "spanish": "el futuro",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The past",
+                "spanish": "el pasado",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The inside",
+                "spanish": "el interior",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The outside",
+                "spanish": "el exterior",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The hate",
+                "spanish": "el odio",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The sadness",
+                "spanish": "la tristeza",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The happiness",
+                "spanish": "la felicidad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The truth",
+                "spanish": "la verdad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The lie",
+                "spanish": "la mentira",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The hope",
+                "spanish": "la esperanza",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The luck",
+                "spanish": "la suerte",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The joy",
+                "spanish": "la alegría",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The anger",
+                "spanish": "el enojo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The success",
+                "spanish": "el éxito",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The failure",
+                "spanish": "el fracaso",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The guilt",
+                "spanish": "la culpa",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The desire",
+                "spanish": "el deseo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The doubt",
+                "spanish": "la duda",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The trust",
+                "spanish": "la confianza",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The value",
+                "spanish": "el valor",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The friendship",
+                "spanish": "la amistad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The envy",
+                "spanish": "la envidia",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The need",
+                "spanish": "la necesidad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The education",
+                "spanish": "la educación",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The silence",
+                "spanish": "el silencio",
+                "hasImage": false,
+                "image": ""
+            }
         ]
     }
 }
