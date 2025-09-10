@@ -2423,6 +2423,194 @@
                 "hasImage": false,
                 "image": ""
             }
+        ],
+        "Abstract 2": [
+            {
+                "english": "The idea",
+                "spanish": "la idea",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The thought",
+                "spanish": "el pensamiento",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The knowledge",
+                "spanish": "el conocimiento",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The opinion",
+                "spanish": "la opinión",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The intelligence",
+                "spanish": "la inteligencia",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The memory",
+                "spanish": "la memoria",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The life",
+                "spanish": "la vida",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The death",
+                "spanish": "la muerte",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The moment",
+                "spanish": "el momento",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The freedom",
+                "spanish": "la libertad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The peace",
+                "spanish": "la paz",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The justice",
+                "spanish": "la justicia",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The respect",
+                "spanish": "el respeto",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The culture",
+                "spanish": "la cultura",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The government",
+                "spanish": "el gobierno",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The economy",
+                "spanish": "la economía",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The society",
+                "spanish": "la sociedad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The history",
+                "spanish": "la historia",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The religion",
+                "spanish": "la religión",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The politics",
+                "spanish": "la política",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The law",
+                "spanish": "la ley",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The health",
+                "spanish": "la salud",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The illness",
+                "spanish": "la enfermedad",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The situation",
+                "spanish": "la situación",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The condition",
+                "spanish": "la condición",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The problem",
+                "spanish": "el problema",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The experience",
+                "spanish": "la experiencia",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The risk",
+                "spanish": "el riesgo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The change",
+                "spanish": "el cambio",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The decision",
+                "spanish": "la decisión",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "The result",
+                "spanish": "el resultado",
+                "hasImage": false,
+                "image": ""
+            }
         ]
     }
 }
