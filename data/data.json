@@ -2612,5 +2612,211 @@
                 "image": ""
             }
         ]
+    },
+    "Adjectives": {
+        "Colors": [
+            {
+                "english": "Red",
+                "spanish": "rojo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/flagged/photo-1593005510509-d05b264f1c9c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Blue",
+                "spanish": "azul",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1588421357574-87938a86fa28?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Green",
+                "spanish": "verde",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1601370690183-1c7796ecec61?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Yellow",
+                "spanish": "amarillo",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/flagged/photo-1593005510329-8a4035a7238f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Black",
+                "spanish": "negro",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1595418917831-ef942bd9f9ec?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "White",
+                "spanish": "blanco",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1638132035918-90a22beaab3b?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Gray",
+                "spanish": "gris",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1541323429887-2e393b8db71c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Brown",
+                "spanish": "marrón",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1578845426429-c99043c4fc86?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Pink",
+                "spanish": "rosa",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1617957772039-694195b83a35?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Orange",
+                "spanish": "naranja",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1650803318792-6781b4884a20?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Purple",
+                "spanish": "morado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1694868162090-382eae3ee23a?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ],
+        "Sizes": [
+            {
+                "english": "Big",
+                "spanish": "grande",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Small",
+                "spanish": "pequeño",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Tall / High",
+                "spanish": "alto",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Short (persons) / Low",
+                "spanish": "bajo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Long",
+                "spanish": "largo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Short (things)",
+                "spanish": "corto",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Wide",
+                "spanish": "ancho",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Narrow",
+                "spanish": "estrecho",
+                "hasImage": false,
+                "image": ""
+            }
+        ],
+        "Emotions & Feelings": [
+            {
+                "english": "Happy",
+                "spanish": "feliz",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1509909756405-be0199881695?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Excited",
+                "spanish": "emocionado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1625314517201-dd442445cf42?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Calm",
+                "spanish": "tranquilo",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1683122032598-0a9f866cec92?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Proud",
+                "spanish": "orgulloso",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1661584171189-44d217d1df40?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Sad",
+                "spanish": "triste",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1521075486433-bf4052bb37bc?q=80&w=1044&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Angry",
+                "spanish": "enojado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1609852234838-147db6815968?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Scared",
+                "spanish": "asustado",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1683740128035-1a4c8b2e1ca3?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Worried",
+                "spanish": "preocupado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1701971761819-eb779433eab2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Tired",
+                "spanish": "cansado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1713947503867-3b27964f042b?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Surprised",
+                "spanish": "sorprendido",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1603792907191-89e55f70099a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Confused",
+                "spanish": "confundido",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1651796699697-d04554725195?q=80&w=1488&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Disgusted",
+                "spanish": "asqueado",
+                "hasImage": true,
+                "image": "https://images.unsplash.com/photo-1625230331320-4cec3fce915a?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Stressed",
+                "spanish": "estresado",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1665203618989-e04554a539b1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+                "english": "Anxious",
+                "spanish": "ansioso",
+                "hasImage": true,
+                "image": "https://plus.unsplash.com/premium_photo-1664284793147-c8093ffd68ef?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ]
     }
 }
