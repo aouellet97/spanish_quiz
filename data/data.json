@@ -2905,6 +2905,80 @@
                 "hasImage": false,
                 "image": ""
             }
+        ],
+        "Quantity / Amount": [
+            {
+                "english": "A lot of / many",
+                "spanish": "mucho",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Little / few",
+                "spanish": "poco",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "All / every",
+                "spanish": "todo",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Some",
+                "spanish": "algún",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Several",
+                "spanish": "varios",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Too much / too many",
+                "spanish": "demasiado",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "So much / So many",
+                "spanish": "tanto",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Each / every",
+                "spanish": "cada",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Half",
+                "spanish": "medio",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Enough",
+                "spanish": "suficiente",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "Scarce",
+                "spanish": "escaso",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "None",
+                "spanish": "ningún",
+                "hasImage": false,
+                "image": ""
+            }
         ]
     }
 }
