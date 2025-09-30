@@ -2980,5 +2980,361 @@
                 "image": ""
             }
         ]
+    },
+    "Regular verbs": {
+        "Ar verbs": [
+            {
+                "english": "To speak",
+                "spanish": "hablar ",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To enter (into)",
+                "spanish": "entrar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To need",
+                "spanish": "necesitar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To love",
+                "spanish": "amar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To send",
+                "spanish": "enviar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To forget",
+                "spanish": "olvidar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To walk",
+                "spanish": "andar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To listen to",
+                "spanish": "escuchar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To pay for",
+                "spanish": "pagar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To help",
+                "spanish": "ayudar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To hope, to wait for",
+                "spanish": "esperar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To study",
+                "spanish": "estudiar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To ask",
+                "spanish": "preguntar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To look for",
+                "spanish": "buscar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To prepare",
+                "spanish": "preparar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To walk",
+                "spanish": "caminar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To win, earn",
+                "spanish": "ganar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To return",
+                "spanish": "regresar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To greet",
+                "spanish": "saludar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To cook",
+                "spanish": "cocinar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To touch, to play an instrument",
+                "spanish": "tocar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To buy",
+                "spanish": "comprar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To take, to drink",
+                "spanish": "tomar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To answer",
+                "spanish": "contestar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To arrive",
+                "spanish": "llegar ",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To work",
+                "spanish": "trabajar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To allow, to leave",
+                "spanish": "dejar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To wear, to carry",
+                "spanish": "llevar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To teach",
+                "spanish": "enseñar",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To watch, to look at",
+                "spanish": "mirar",
+                "hasImage": false,
+                "image": ""
+            }
+        ],
+        "Er verbs": [
+            {
+                "english": "To eat",
+                "spanish": "comer",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To learn",
+                "spanish": "aprender",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To believe",
+                "spanish": "creer",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To possess, to own",
+                "spanish": "poseer",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To drink",
+                "spanish": "beber",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To have to, to owe",
+                "spanish": "deber",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To promise",
+                "spanish": "prometer",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To hide",
+                "spanish": "esconder",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To break",
+                "spanish": "romper",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To understand",
+                "spanish": "comprender",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To read",
+                "spanish": "leer",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To fear",
+                "spanish": "temer",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To run",
+                "spanish": "correr",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To put into",
+                "spanish": "meter en",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To sell",
+                "spanish": "vender",
+                "hasImage": false,
+                "image": ""
+            }
+        ],
+        "Ir verbs": [
+            {
+                "english": "To open",
+                "spanish": "abrir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To discover",
+                "spanish": "descubrir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To admit",
+                "spanish": "admitir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To discuss",
+                "spanish": "discutir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To receive",
+                "spanish": "recibir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To write",
+                "spanish": "escribir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To climb, to go up",
+                "spanish": "subir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To exist",
+                "spanish": "existir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To suffer",
+                "spanish": "sufrir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To decide",
+                "spanish": "decidir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To omit",
+                "spanish": "omitir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To describe",
+                "spanish": "describir",
+                "hasImage": false,
+                "image": ""
+            },
+            {
+                "english": "To live",
+                "spanish": "vivir",
+                "hasImage": false,
+                "image": ""
+            }
+        ]
     }
 }
